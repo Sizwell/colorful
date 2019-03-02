@@ -12,6 +12,10 @@ public class App
 {
     public static void main( String[] args )
     {
+
+
+        //nokia.config();
+
         Colors colors = new Colors();
 
         colors.getCollection();

@@ -15,7 +15,7 @@ public class Colors {
         collect.add("Grey");
 
         System.out.println("Colors: " + collect);
-        System.out.println("Color at index 3: " + ((ArrayList<String>) collect).remove(3));
+      //  System.out.println("Color at index 3: " + ((ArrayList<String>) collect).remove(3));
 
         return collect;
 
